@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    height: 97vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    background-image: url(https://pbs.twimg.com/media/Eg2wRAkWoAAECsc?format=jpg&name=large);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.formulario{
+    background: linear-gradient(to right, #f02929,#ff000011);
+    color: #ffff;
+    background-color: #ad3232;
+    padding: 2%;
+    border-radius: 20px;
+}
